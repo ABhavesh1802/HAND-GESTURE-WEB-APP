@@ -1,0 +1,72 @@
+body
+{
+  color: white;
+  background: linear-gradient(red, blue);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name ,#result_gesture_name2  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+label
+{
+  font-size: 14px;
+  color: black;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+#capt_img
+{
+    background-color: violet;
+    color: black;
+    font-weight: bold;
+}
+
+#pre_gest
+{
+    background-color: violet;
+    color: black;
+    font-weight: bold;
+}
+
+#div:hover
+{
+    background-color: blue;
+}
+
+#capt_img:hover
+{
+    background-color: red;
+}
+
+#pre_gest:hover
+{
+    background-color: red;
+}
